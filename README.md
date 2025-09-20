@@ -27,7 +27,7 @@ python scrape_courses.py
 A `coursera_courses.csv` file with course titles.
 
 ## Screenshot
-![Screenshot of script running](https://imgur.com/gi2KKif)
+![Screenshot of script running][Imgur](https://imgur.com/gi2KKif)
 
 ## Author
 Nahuel Seoane · @nahuelseoane
